@@ -1,0 +1,9 @@
+###
+
+# curl --location 'http://localhost:8080/users'
+#--header 'Cookie: mangogi=15ee2969b20bb390aa580496738862c7a97646055831b598ebf9b4c58da3b07c'
+GET http://localhost:8080/users
+Cookie: mangogi=15ee2969b20bb390aa580496738862c7a97646055831b598ebf9b4c58da3b07c
+
+###
+
